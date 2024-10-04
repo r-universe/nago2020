@@ -7,4 +7,4 @@
 	url = https://github.com/nago2020/semipar.depcens
 [submodule "depCensoring"]
 	path = depCensoring
-	url = https://github.com/cran/depCensoring
+	url = https://github.com/nago2020/depcensoring
